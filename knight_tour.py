@@ -60,7 +60,5 @@ class KnightTour:
         return neighbours
 
 
-
-
-a = KnightTour((8, 8))
-a.warnsdroff((3, 3))
+# a = KnightTour((8, 8))
+# a.warnsdroff((3, 3))
